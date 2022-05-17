@@ -1,0 +1,17 @@
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\bin\Debug\net6.0\Задание 5.exe
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\bin\Debug\net6.0\Задание 5.deps.json
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\bin\Debug\net6.0\Задание 5.runtimeconfig.json
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\bin\Debug\net6.0\Задание 5.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\bin\Debug\net6.0\Задание 5.pdb
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.csproj.AssemblyReference.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.AssemblyInfoInputs.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.AssemblyInfo.cs
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.csproj.CoreCompileInputs.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\refint\Задание 5.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.pdb
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.genruntimeconfig.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\ref\Задание 5.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\bin\Debug\net6.0\Pastel.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Лаба 2.4\Задание 5\obj\Debug\net6.0\Задание 5.csproj.CopyComplete
